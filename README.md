@@ -116,13 +116,15 @@ Este projeto demonstra conhecimentos em:
 ```text
 📂 Financial-Anomaly-Detection
 │
-├── Dashboard.pbix
-├── Script_IsolationForest.R
+├── dashboard detecção de anomalias com R.pbix
+├── Script.R
 ├── README.md
-├── imagens
+├── screenshots
 │   ├── dashboard.png
 │   └── modelagem.png
-└── dataset
+└── dados_historicos.csv
+└── novos_dados.csv
+└── previsoes_novos_dados.csv
 ```
 
 ---
