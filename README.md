@@ -85,15 +85,11 @@ Com este dashboard é possível:
 
 ## Dashboard Principal
 
-(screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ## Modelo de Dados
 
-(screenshots/modelagem.png)
-
-
-#**Página 1 — Perfil Demográfico dos Clientes**
-
+![Modelagem dos Dados](screenshots/modelagem.png)
 
 ---
 
